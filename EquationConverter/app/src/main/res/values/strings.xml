@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EquationConverter</string>
+    <string name="submit">SUBMIT</string>
+    <string name="enter_the_number_below">ENTER THE NUMBER BELOW</string>
+</resources>
